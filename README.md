@@ -15,8 +15,6 @@ XCode 9.4 users can use `swift-4.0` branch
 Mozilla volunteers maintain Public Suffix List and there you can find list of library for respective language. so in list Swift library is also present. At the time of writing this answer Swift library don't have provison of adding it through CocoPods so you have to add downloaded project directly into your project. Code to get TLD name assuming Swift library is added into your project.
 
 References -
-  [1]: https://publicsuffix.org/learn/
-  
-  [2]: https://github.com/Dashlane/SwiftDomainParser
-  
-  [3]: https://www.appcaretaker.com/2018/10/07/how-to-get-top-level-domain-name-of-url-in-swiftios/
+  https://publicsuffix.org/learn/
+  https://github.com/Dashlane/SwiftDomainParser
+  https://www.appcaretaker.com/2018/10/07/how-to-get-top-level-domain-name-of-url-in-swiftios/
