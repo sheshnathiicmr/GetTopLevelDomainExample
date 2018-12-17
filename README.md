@@ -1,4 +1,4 @@
-# GetTopLvelDomainExample-iOS
+# Get top level domain name example-iOS
 A simple native get url's top level domain name demo iOS app using swift. 
 
 ## Disclaimer
